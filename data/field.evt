@@ -1,0 +1,46 @@
+BGM,field
+CHARA,minister,15,31,0,1,しろを　たててくれて　ありがとうぞ。
+CHARA,soldier,7,27,0,1,これは　そすうでは　ないぞよ。
+CHARA,soldier,8,27,0,1,これは　そすうぞよ。
+CHARA,black_cat,16,33,0,1,やっとおしろができましたね。/おうさまたちは　なかにいます。
+
+MOVE,17,31,24,castle,7,15
+MOVE,18,31,25,castle,8,15
+MOVE,17,32,26,castle,7,15
+MOVE,18,32,27,castle,8,15
+
+MOVE,17,25,28,town1,1,13
+
+MOVE,12,14,28,town2,1,13
+
+MOVE,28,14,28,town3,1,13
+
+MOVE,39,23,28,town4,1,13
+
+MOVE,55,13,28,town5,1,13
+
+MOVE,55,23,28,town9,1,13
+
+MOVE,57,54,28,town6,1,13
+
+MOVE,34,52,28,town7,1,13
+
+MOVE,5,58,28,town8,1,13
+
+MOVE,4,42,24,castle2,7,15
+MOVE,5,42,25,castle2,8,15
+MOVE,4,43,26,castle2,7,15
+MOVE,5,43,27,castle2,8,15
+
+MOVE,4,31,30,dungeon1,31,22
+MOVE,4,5,30,dungeon2,31,22
+MOVE,26,28,30,dungeon1,31,22
+MOVE,51,8,30,dungeon1,31,22
+MOVE,53,56,30,dungeon1,31,22
+MOVE,38,59,30,dungeon1,31,22
+
+MOVE,37,20,31,tower,6,12
+MOVE,53,15,31,tower,6,12
+MOVE,56,20,31,tower,6,12
+MOVE,58,52,31,tower,6,12
+MOVE,36,53,31,tower,6,12

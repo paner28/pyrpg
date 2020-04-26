@@ -1,0 +1,8 @@
+BGM,castle
+CHARA,witch,7,2,0,0,よくぞ　ここまで　たどりついたな。/いざ　じんじょうに　しょうぶ。
+CHARA,halfdevil_male,6,5,0,1,まじょさまは　さいきょうの　そすうつかい。
+CHARA,halfdevil_female,8,5,0,1,このそすうの　かずは。
+OBJECT,7,2,44
+OBJECT,8,2,44
+MOVE,7,15,3,field,6,43
+MOVE,8,15,3,field,6,43

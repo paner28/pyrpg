@@ -1,0 +1,18 @@
+BGM,castle
+CHARA,king,7,2,0,0,そなたにほうびをつかわす。
+CHARA,minister,6,3,0,0,ほうもつこの　たからばこは/じゆうにあけてよいぞ。
+CHARA,soldier,6,13,2,0,スペースキーで　とびらがあきます。/たからばこも　スペースキーで/あけられます。
+TREASURE,2,6,57
+TREASURE,3,6,QK
+TREASURE,4,6,2
+DOOR,3,8
+TREASURE,2,13,T1
+TREASURE,3,13,1729
+TREASURE,4,13,9J
+DOOR,3,10
+DOOR,10,9
+OBJECT,7,2,44
+OBJECT,8,2,44
+MOVE,13,6,39,castle2F,12,6
+MOVE,7,15,3,field,16,31
+MOVE,8,15,3,field,16,32
