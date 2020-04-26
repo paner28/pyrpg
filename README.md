@@ -1,10 +1,12 @@
 # pyrpg
-グロタン大陸を冒険して、たくさんの素数を集めるゲームです。<br>
-作中で素数使いと対戦することもできます(未実装)
+グロタン大陸を冒険し、たくさんの素数を集めるゲーム<br>
+作中で素数使いと対戦することもできる(未実装)
 
-環境設定
+環境設定<br>
 1.前提として、Pythonがインストールされている。<br>
-  python -Vやpyhton --versionを入力してエラーが出た場合は、パスが通ってないので、「Python　パス」などで調べて下さい。<br>
-2.コマンドプロンプトでpip install pygameまたはpython -m pip install pygameと入力する<br>
-  恐らくこれは昔のバージョンですと言われるので、python -m pip install --upgrade pipと入力する<br>
-3.
+  「python -V」や「pyhton --version」を入力してエラーが出た場合は、パスが通ってないため、「Python　パス」などで各自調べる。<br>
+2.コマンドプロンプトで「pip install pygame」または「python -m pip install pygame」と入力する<br>
+  恐らくこれは昔のバージョンですと言われるので、「python -m pip install --upgrade pip」と入力する<br>
+3.このページの右上の緑のところから、zipファイルをダウンロードする
+  ダウンロードしたフォルダをlocal discのuserの自分の名前のフォルダの中に入れる
+4.コマンドプロンプトで「cd ダウンロードしたファイル名」を入力し、最後に「python -m pyrpg(or pymap)」と入力することで実行できる。
