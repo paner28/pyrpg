@@ -7,6 +7,6 @@
   「python -V」や「pyhton --version」を入力してエラーが出た場合は、パスが通ってないため、「Python　パス」などで各自調べる。<br>
 2.コマンドプロンプトで「pip install pygame」または「python -m pip install pygame」と入力する<br>
   恐らくこれは昔のバージョンですと言われるので、「python -m pip install --upgrade pip」と入力する<br>
-3.このページの右上の緑のところから、zipファイルをダウンロードする
-  ダウンロードしたフォルダをlocal discのuserの自分の名前のフォルダの中に入れる
-4.コマンドプロンプトで「cd ダウンロードしたファイル名」を入力し、最後に「python -m pyrpg(or pymap)」と入力することで実行できる。
+3.このページの右上の緑のところから、zipファイルをダウンロードする<br>
+  ダウンロードしたフォルダをlocal discのuserの自分の名前のフォルダの中に入れる<br>
+4.コマンドプロンプトで「cd ダウンロードしたファイル名」を入力し、最後に「python -m pyrpg(or pymap)」と入力することで実行できる。<br>
